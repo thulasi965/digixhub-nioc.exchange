@@ -1,3 +1,6 @@
+preregisteration.nioc.exchange error list :-
+=========================================
+
 1.the error msg is not dispalyed for selfie rject on client verification page.=======> (done)
 
 2.change the background colour for forgot password,reset password fields.
@@ -11,23 +14,20 @@
 
 6.in admin for accept selfi photo 2 popups are displayed.==========> (done)
 
-===============================================================================================================================
+7.in personal information change the nationality dropdown field,in address change the country,state fields back ground colour. 
 
-1.in personal information change the nationality dropdown field,in address change the country,state fields back ground colour. 
+8.in client in corporate in company information change the background colour of counntrey of incorporation,in appliants details change the applicants country,applicants state dropdowns back groundcolour.
 
-2.in client in corporate in company information change the background colour of counntrey of incorporation,in appliants details change the applicants country,applicants state dropdowns back groundcolour.
+9.change the colour of nioc exchange ==========> company,your referal account,business contacts details .
 
-2.change the colour of nioc exchange ==========> company,your referal account,business contacts details .
+10.in client once documents are rejected in side upload documents the msg is not displayed.   
 
-3.in client once documents are rejected in side upload documents the msg is not displayed.   
+11.once if i reject the backside photo id document and selfi in client if i submit once again then going to selfi  and if i upload also the back side photo Id it showing like no file choosen or view image if we click on view image it showing like untitled because of this reason its not going to accept terma and  conditions page. 
 
-4.once if i reject the backside photo id document and selfi in client if i submit once again then going to selfi  and if i upload also the back side photo Id it showing like no file choosen or view image if we click on view image it showing like untitled because of this reason its not going to accept terma and  conditions page. 
+12.in admin once personal information is accepted ============================> "address data is accepted" msg is displayed.
 
-5.in admin once personal information is accepted ============================> "address data is accepted" msg is displayed.
+13.in admin in corporate if company information is rejected user details are rejected msg is displayed,for company address is rejected applicants details are rejected successfully msg is dispalyed.(change the msgs according to  submodule names).
 
-6.in admin in corporate if company information is rejected user details are rejected msg is displayed,for company address is rejected applicants details are rejected successfully msg is dispalyed.(change the msgs according to  submodule names).
+14.in admin in documents ownership and control strecture if we click on accept button it showing the accept button 2 times if we refresh the page it showing like ==================> (change ,accepted).   
 
-7.in admin in documents ownership and control strecture if we click on accept button it showing the accept button 2 times if we refresh the page it showing like ==================> (change ,accepted).   
-
-
-8.in admin in personal change the msg as for personal information acceptance.
+15.in admin in personal change the msg as for personal information acceptance.
