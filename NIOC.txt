@@ -1,0 +1,12 @@
+1.dropdowns are not displayed with white textfield.
+
+2.in personal in address the reject button is not working once if i reject the documents also still it showing in enable statgus.
+
+3.when we click on conform your account resend  NIOC EXCHANGE
+"Activation link has expired we have sent you a new link to your email. follow the link to activate your account." msg is displayed if we click on the link same msg is displayed.
+
+4.in client in personal once if the documents are getting rejected then again if we upload the documents once again upload documents are not working some different documents are getting uploaded at the same time the accept terms and conditions are not working. 
+
+5.in client in corporate once if the documents are getting rejected then again if we upload the documents once again upload documents are not working some different documents are getting uploaded at the same time the accept terms and conditions are not working. 
+
+6.in admin in Ownership and Control Structure (please provide chart indicating percentage holdings):if we accept the document it showing like accepted button is displayed rightside of the view button. 
